@@ -10,9 +10,9 @@ class RemoteConfig {
   RemoteConfig._();
 
   // Supabase 配置（这个地址基本不会变）
-  static const _supabaseUrl = 'https://qrwmylotazdvivhezajl.supabase.co';
+  static const _supabaseUrl = 'https://leclzgkctsgguqwxioft.supabase.co';
   static const _supabaseAnonKey =
-      'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFyd215bG90YXpkdml2aGV6YWpsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTEzNDg0MDQsImV4cCI6MjA2NjkyNDQwNH0.ogFTMnD_LMFb3L89RwHIL-xbSEwFMXIVlhkncpR6HBk';
+      'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxlY2x6Z2tjdHNnZ3Vxd3hpb2Z0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzMxNjU5MTcsImV4cCI6MjA4ODc0MTkxN30.SfyC1gimY10GIVKlAgY-s2EeIW85TmNDQcDM0ahSziA';
 
   // 默认值（兜底）
   static const _defaultApiUrl = 'https://meet.f13f2f75.org';
